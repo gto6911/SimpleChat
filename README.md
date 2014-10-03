@@ -1,4 +1,4 @@
 SimpleChat
 ==========
 
-Projet de génie logiciel
+Projet de chat de génie logiciel
